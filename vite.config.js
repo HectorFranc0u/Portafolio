@@ -7,5 +7,5 @@ export default defineConfig({
   optimizeDeps: {
     include: ['bootstrap'],
   },
-  base: '/Portafolio-lab2/'
+  base: '/Portafolio/'
 });
