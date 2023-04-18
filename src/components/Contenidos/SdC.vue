@@ -3,6 +3,8 @@
     <br>
     <br>
     <div class="container">
+        <h2>Computo I - Js y Vue</h2>
+        <br/>
     <div class="row">
         <div class="col">
         <h3>semana 2</h3>
