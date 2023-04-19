@@ -1,6 +1,9 @@
 <template>
     <h1>Tareas ex-aula</h1>
     <br>
+
+    <h1>Computo I</h1>
+    <br>
     <p>la principal tarea que hemos tenido durante este computo es 
         la creacion de una pagina que incluya los CV de un grupo de compañeros,
         asi mismo debiamos realizar un ejercicio en esta actividad.
@@ -17,6 +20,12 @@
    <br>
     <img src="./img/4.png" width="600" height="300">
     <img src="./img/5.png" width="250" height="100">
+
+    <br>
+
+    <h1>Computo II</h1>
+        <br>
+    <P>No se presentaron tareas de aula para este computo :)</P>
 </template>
 
 <script>

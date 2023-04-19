@@ -52,6 +52,82 @@
         </div>
         
     </div>
+    <br>
+    <h2>Computo II - PHP y Laravel</h2>
+    <br>
+    <div class="row">
+        <div class="col">
+        <h3>semana 7</h3>
+        <br>
+        <h5>Introduccion al desarrollo con php</h5>  
+        <p>en esta semana empezamos el aprendizaje sobre el desarrollo back end, vimos una introduccion al desarrollo con php
+            aprendimos a hacer la instalacion de php en las computadoras y como manejar su uso y la visualizacion.
+        </p>          
+        <p>
+            tambien se aprendio sobre la sintaxis basica y la estructura que tienen los archivos php y el uso con html5
+        </p>
+        </div>
+        <div class="col">
+        <h3>semana 8</h3>
+        <br>
+        <h5>Loops arrays functions</h5>     
+        <br>
+        <p>esta semana se vio el uso de arrays dentro de php, su sintaxis y los distintos tipos que hay de los mismos</p>
+        <p>
+            tambien se estudio el uso de las funciones, aprendimos sus partes y su sintaxis, ademas de la como se usan de forma global en los proyectos.
+        </p>
+        </div>
+        <div class="col">
+        <h3>semana 9</h3>
+        <br>
+        <h5>Introduccion a la POO</h5>     
+        
+        <p>primero se dio un pequeño repaso a lo que ya sabiamos con anterioridad sobre la programacion orientada a objetos.
+            que es, como funciona, y conceptos basicos
+        </p>
+        <p>
+            luego se dio desarrollo al uso de Programacion Orientada a Objetos en PHP, su sintaxis y uso dentro de los proyectos.
+        </p>
+        </div>
+        <div class="col">
+        <h3>semana 10</h3>
+        <br>
+        <h5>Clases Abstractas e interfaces</h5>     
+        <br>
+        <p>
+            aprendimos sobre las clases que pueden haber en php, mas especificamente las clases Abstractas, 
+            son modelos incompletos que no se pueden instanciar directamente, solo pueden ser extendidos.
+        </p>
+        <p>
+            tambien aprendimos las interfaces Las interfaces en PHP son declaraciones de métodos sin implementación, 
+            que las clases deben implementar para cumplir su contrato.
+        </p>
+        </div>
+        <div class="col">
+        <h3>semana 11</h3>
+        <br>
+        <h5>Introduccion a Laravel</h5>     
+        <br>
+        <p>
+            Aprendimos sobre distintos frameworks de PHP, en este caso nos enfocamos en el uso de composer para poder
+            utilizar el framework de Laravel
+        </p>
+        <p>
+            Haciendo uso de laravel nos conectamos a una base de datos MySQL para utilizarla a traves de PHP.
+        </p>
+        </div>
+        <div class="col">
+        <h3>semana 12</h3>
+        <br>
+        <h5>CRUD con Laravel</h5>     
+        <br>
+        <br>
+        <p>
+            creamos un crud con laravel de una base de datos pre-establecida, en este caso, mascotas
+        </p>
+        </div>
+        
+    </div>
     </div>
 </template>
 
