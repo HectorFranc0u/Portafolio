@@ -31,6 +31,15 @@
     <li><a href="https://laravel.com/docs/10.x/routing">Documentacion Laravel</a></li>
     <li><a href="https://getcomposer.org/doc/">Documentacion Composer</a></li>
 
+<br>
+    <h1>Computo III</h1>
+
+    <p class="subtitulos">Documentacion</p>
+
+    <li><a href="https://notasweb.me/entrada/crear-un-api-rest-en-laravel">Documentacion de API REST</a></li>
+    <li><a href="https://techvblogs.com/blog/social-login-laravel-socialite">Documentacion Socialite</a></li>
+    <li><a href="https://magecomp.com/blog/laravel-8-create-application-programing-interface/">API REST</a></li>
+
 </template>
 
 <script>

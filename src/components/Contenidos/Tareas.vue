@@ -26,6 +26,10 @@
     <h1>Computo II</h1>
         <br>
     <P>No se presentaron tareas de aula para este computo :)</P>
+
+    <h1>Computo II</h1>
+    <br>
+    <p>Laboratorios 1 y 2, realizados en aula.</p>
 </template>
 
 <script>

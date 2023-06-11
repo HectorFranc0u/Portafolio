@@ -128,6 +128,69 @@
         </div>
         
     </div>
+
+    <br>
+    <h2>Computo III - Backend Laravel</h2>
+    <br>
+    <div class="row">
+        <div class="col">
+        <h3>semana 14</h3>
+        <br>
+        <h5>Sistemas de rutas y controladores</h5>  
+        <p>Aprendimos sobre el uso de rutas en laravel, como configurarlas y con esto poder manejar distintas APIs en el backend de nuestros proyectos.
+        </p>          
+        <p>
+            asi mismo aprendimos a crear controladores para dar logica a estas rutas con las APIs.
+        </p>
+        </div>
+        <div class="col">
+        <h3>semana 15</h3>
+        <br>
+        <h5>Validación de datos (rutas, vistas, formularios y controladores)</h5>     
+        <br>
+        <p>profundizamos en los temas que fueron introducidos la semana pasada, aprendemos tambien a 
+            implementar vistas con las rutas, y como hacer funcionar la vista a traves de los controladores</p> 
+        </div>
+        <div class="col">
+        <h3>semana 16</h3>
+        <br>
+        <h5>API REST con Laravel</h5>     
+        
+        <p>aprendemos el uso basico de la API RESTful con laravel, para manejar el backend con el front end.
+        </p>
+        </div>
+        <div class="col">
+        <h3>semana 17</h3>
+        <br>
+        <h5>Autenticación API REST con Laravel</h5>     
+        <br>
+        <p>
+            Usamos API RESTful para autenticar campos que ingresarian al backend de nuestras aplicaciones, aprendemos lo que es la autenticacion de los campos y como configurarla.
+        </p>
+        </div>
+        <div class="col">
+        <h3>semana 18</h3>
+        <br>
+        <h5>Consumo de API REST</h5>     
+        <br>
+        <p>
+            damos uso a API REST con la comunicacion entre backend y front end.
+        </p>
+    
+        </div>
+
+        <div class="col">
+        <h3>semana 19</h3>
+        <br>
+        <h5>Autenticacion con proveedores</h5>     
+        <br>
+        <p>
+            Utilizamos proveedores de terceros para crear logins en laravel, manejamos los usuarios y los logs de cuando un usuario accede a la cuenta.
+        </p>
+    
+        </div>
+        
+    </div>
     </div>
 </template>
 
